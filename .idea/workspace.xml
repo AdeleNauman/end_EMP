@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c92565db-be85-4cc6-959b-74c4cbb2c3ca" name="Changes" comment="Changes" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="D:\User\Git\bin\git.exe" />
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="azm" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="userSettingsFile" value="D:\maven\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="26Q5GpUASxWbjNnFuIv7V1IcMPF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/date" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\biji\Spark_SQL\date" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\biji\Spark_SQL\date" />
+      <recent name="D:\biji\Spark_SQL\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.ProCityAnalyseForRDD">
+    <configuration name="OptionDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="测试样例类.样例类.OptionDemo" />
+      <module name="Spark_SQL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="测试样例类.样例类.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Optionparquet" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="new_appEmp.Optionparquet" />
+      <module name="Spark_SQL" />
+      <option name="PROGRAM_PARAMETERS" value="D:\biji\项目_互联网广告\zbc\互联网广告\互联网广告第一天\2016-10-01_06_p1_invalid.1475274123982.log D:\biji\项目_互联网广告\zbc\互联网广告\互联网广告第一天\new_output" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="new_appEmp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProCityAnalyse" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="new_appEmp.analyse.ProCityAnalyse" />
+      <module name="Spark_SQL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="new_appEmp.analyse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProCityAnalyseForRDD" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="new_appEmp.analyse.ProCityAnalyseForRDD" />
+      <module name="Spark_SQL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="new_appEmp.analyse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="transitionparquest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="old_appEmp.tools.transitionparquest" />
+      <module name="Spark_SQL" />
+      <option name="PROGRAM_PARAMETERS" value="D:\biji\项目_互联网广告\zbc\互联网广告\互联网广告第一天\2016-10-01_06_p1_invalid.1475274123982.log D:\biji\项目_互联网广告\zbc\互联网广告\互联网广告第一天\newoutput1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="old_appEmp.tools.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="应用程序.OptionDemo" />
+      <item itemvalue="应用程序.Optionparquet" />
+      <item itemvalue="应用程序.transitionparquest" />
+      <item itemvalue="应用程序.ProCityAnalyse" />
+      <item itemvalue="应用程序.ProCityAnalyseForRDD" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.ProCityAnalyseForRDD" />
+        <item itemvalue="应用程序.ProCityAnalyse" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c92565db-be85-4cc6-959b-74c4cbb2c3ca" name="Changes" comment="" />
+      <created>1647342880924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647342880924</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Changes">
+      <created>1648260625489</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648260625489</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Changes">
+      <created>1648260792697</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1648260792697</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Changes">
+      <created>1648260860956</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1648260860956</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NoClassDefFoundError" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://C:/Users/Public/Nwt/cache/recv/念卿依旧/dh08dmp03/src/main/scala/com/dahua/dim/DIMZhibiao.scala</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
